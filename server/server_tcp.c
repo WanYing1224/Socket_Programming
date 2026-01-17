@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
          exit(1);
      }
 
-     /* Prevent Zombies */
+     // Prevent Zombies
      signal(SIGCHLD, signal_handler);
 
      sockfd = socket(AF_INET, SOCK_STREAM, 0);
