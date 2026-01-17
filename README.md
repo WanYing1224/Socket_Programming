@@ -1,6 +1,6 @@
-# USC EE533 Lab 1: Socket Programming
+# Socket Programming
 
-This repository contains the implementation of Client-Server socket programming in C for the EE533 course. The project demonstrates network communication using both TCP (Stream) and UDP (Datagram) protocols, as well as local Inter-Process Communication (IPC) using Unix Domain Sockets.
+This repository contains the implementation of Client-Server socket programming in C for USC EE533 course. The project demonstrates network communication using both TCP (Stream) and UDP (Datagram) protocols, as well as local Inter-Process Communication (IPC) using Unix Domain Sockets.
 
 ## Project Overview
 
